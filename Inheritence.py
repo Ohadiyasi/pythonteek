@@ -13,3 +13,4 @@ class Child(Parent):
 
 sample = Child()
 sample.sayHi()
+print("Hello")
